@@ -1,69 +1,56 @@
 🌑 Hi, I'm Sajani Diwyanjali!
 Undergraduate | Web Developer | Tech Enthusiast
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B59B6&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+%26+Statistics+Undergraduate;I+Love+Building+Beautiful+UI's;Welcome+to+My+GitHub+Profile!"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B59B6&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+%26+Statistics+Undergraduate;Always+Learning+New+Technologies;Welcome+to+My+GitHub!"> </p>
 🖤 About Me
 
 🎓 Undergraduate in Computer Science & Statistics, University of Kelaniya
 
-💻 Passionate about Frontend Development
+💻 Passionate about Frontend & Backend Development
 
-🌱 Learning React, APIs, Java, SQL
+🌱 Currently learning React, Spring Boot, PHP, MongoDB, SQL
 
-🚀 Aspiring Full-Stack Developer
+📊 Interest in Data Analysis using R, Power BI & Minitab
 
-🎨 I love designing clean, modern UI
+🚀 Goal: Become a Full-Stack Developer
 
 🌙 Technologies I Know
-🎨 Frontend
+🎨 Frontend Development
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" /> </p>
-💻 Programming / Backend
-<p> <img src="https://skillicons.dev/icons?i=java,python,nodejs&theme=dark" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /> </p>
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,c,r&theme=dark" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> </p>
+🔧 Backend & Frameworks
+<p> <img src="https://skillicons.dev/icons?i=spring,php,nodejs&theme=dark" /> </p>
+📊 Data Tools
+<p> <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" /> </p>
+
+(Minitab and RStudio don’t have icons, but I include them as text below.)
+
+📘 RStudio
+
+📉 Minitab (Statistical Analysis)
+
 🛠️ Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark" /> </p>
-🌑 Featured Projects
-🔹 LMS Web Project
+🌑 What I Do
 
-📌 University LMS website using HTML, CSS
-🔗 View Repository
+🌐 Build clean, modern web applications
 
-🔹 Travel Blog Website
+🔧 Work on backend APIs (Java Spring, PHP)
 
-📌 Beautiful travel blog built with HTML & CSS
-🔗 View Repository
+🗄 Manage databases (MySQL, MongoDB)
 
-🔹 Recipe Hub
+📊 Do data analysis using R, Power BI, Minitab
 
-📌 Simple recipe website
-🔗 View Repository
-
-🔹 CRUD Application (Java)
-
-📌 Java CRUD operations project
-🔗 View Repository
+✨ Design UI/UX prototypes
 
 🧊 GitHub Stats
 <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=diwyanjali789sajani-boop&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwyanjali789sajani-boop&layout=compact&theme=tokyonight" /> </p>
 💫 Quote
 
-"Learning to code is like learning magic — the more you practice, the stronger you become."
+"Keep learning. Keep building. Great things take time, but you will get there."
 
-🤍 Thanks for Visiting!
+🤍 Thanks for Visiting My Profile!
 
-Feel free to ⭐ my repositories if you like my work.
-
-<!--
-**diwyanjali789sajani-boop/diwyanjali789sajani-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you like my work, feel free to ⭐ my repositories.
