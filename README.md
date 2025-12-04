@@ -5,11 +5,6 @@ Undergraduate | Web Developer | Tech Enthusiast
   <img src="https://komarev.com/ghpvc/?username=diwyanjali789sajani-boop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-🖤 Hi, I'm Sajani Diwyanjali
-
-A passionate IT Student | Exploring the Boundless World of Technology
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwyanjali789sajani-boop&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 🖤 About Me
 
 🎓 Undergraduate in Computer Science & Statistics, University of Kelaniya
