@@ -1,6 +1,10 @@
 🌑 Hi, I'm Sajani Diwyanjali!
 Undergraduate | Web Developer | Tech Enthusiast
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B59B6&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+%26+Statistics+Undergraduate;Always+Learning+New+Technologies;Welcome+to+My+GitHub!"> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=diwyanjali789sajani-boop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 🖤 About Me
 
 🎓 Undergraduate in Computer Science & Statistics, University of Kelaniya
