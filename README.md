@@ -5,19 +5,20 @@ Undergraduate | Web Developer | Tech Enthusiast
   <img src="https://komarev.com/ghpvc/?username=diwyanjali789sajani-boop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+🖤 Hi, I'm Sajani Diwyanjali
+
+A passionate IT Student | Exploring the Boundless World of Technology
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwyanjali789sajani-boop&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 🖤 About Me
 
 🎓 Undergraduate in Computer Science & Statistics, University of Kelaniya
-
 💻 Passionate about Frontend & Backend Development
-
 🌱 Currently learning React, Spring Boot, PHP, MongoDB, SQL
-
 📊 Interest in Data Analysis using R, Power BI & Minitab
-
 🚀 Goal: Become a Full-Stack Developer
 
-🌙 Technologies I Know
+🛠️ Skills & Technologies
 🎨 Frontend Development
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" /> </p>
 💻 Programming Languages
@@ -29,27 +30,20 @@ Undergraduate | Web Developer | Tech Enthusiast
 📊 Data Tools
 <p> <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" /> </p>
 
-(Minitab and RStudio don’t have icons, but I include them as text below.)
-
 📘 RStudio
-
 📉 Minitab (Statistical Analysis)
 
-🛠️ Tools & Platforms
+🧰 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark" /> </p>
 🌑 What I Do
 
 🌐 Build clean, modern web applications
-
 🔧 Work on backend APIs (Java Spring, PHP)
-
 🗄 Manage databases (MySQL, MongoDB)
-
 📊 Do data analysis using R, Power BI, Minitab
-
 ✨ Design UI/UX prototypes
 
-🧊 GitHub Stats
+📊 My GitHub Statistics
 <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=diwyanjali789sajani-boop&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwyanjali789sajani-boop&layout=compact&theme=tokyonight" /> </p>
 💫 Quote
 
