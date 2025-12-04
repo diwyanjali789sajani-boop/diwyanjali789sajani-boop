@@ -39,10 +39,18 @@ Undergraduate | Web Developer | Tech Enthusiast
 ✨ Design UI/UX prototypes
 
 📊 My GitHub Statistics
-<div align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diwyanjali789sajani-boop&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diwyanjali789sajani-boop&layout=compact&theme=tokyonight" />
-</div>
+## 📊 My GitHub Statistics
+
+<p align="center">
+
+### 🐍 Contributions Snake (Dark)
+<img src="https://raw.githubusercontent.com/diwyanjali789sajani-boop/diwyanjali789sajani-boop/output/github-contribution-grid-snake-dark.svg" width="800">
+
+### 📈 GitHub Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwyanjali789sajani-boop&theme=monokai&hide_border=true">
+
+</p>
+
 
 💫 Quote
 
