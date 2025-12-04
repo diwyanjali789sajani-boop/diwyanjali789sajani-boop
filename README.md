@@ -39,7 +39,7 @@ Undergraduate | Web Developer | Tech Enthusiast
 ✨ Design UI/UX prototypes
 
 📊 My GitHub Statistics
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=diwyanjali789sajani-boop&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwyanjali789sajani-boop&layout=compact&theme=tokyonight" /> </p>
+<div align="center"> <!-- GitHub Stats --> <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diwyanjali789sajani-boop&show_icons=true&theme=tokyonight" /> <!-- Most Used Languages --> <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diwyanjali789sajani-boop&layout=compact&theme=tokyonight" /> </div>
 💫 Quote
 
 "Keep learning. Keep building. Great things take time, but you will get there."
